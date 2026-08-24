@@ -15,14 +15,14 @@ O jogo possui um tabuleiro onde as peças são geradas, movimentadas e rotaciona
 
 ## ⚙️ Funcionalidades
 
-- [x] Tabuleiro do jogo
-- [x] Geração de peças
-- [x] Movimentação das peças
-- [x] Rotação das peças
-- [x] Detecção de colisões
-- [x] Remoção de linhas completas
-- [x] Sistema de pontuação
-- [x] Condição de Game Over
+-  Tabuleiro do jogo
+-  Geração de peças
+-  Movimentação das peças
+-  Rotação das peças
+-  Detecção de colisões
+-  Remoção de linhas completas
+-  Sistema de pontuação
+-  Condição de Game Over
 
 ## 🧠 Conceitos praticados
 
@@ -35,9 +35,3 @@ O jogo possui um tabuleiro onde as peças são geradas, movimentadas e rotaciona
 - Manipulação de eventos
 - Loops e condicionais
 
-## 🚀 Como executar
-
-### 1. Clone o repositório
-
-```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
